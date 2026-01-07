@@ -1,16 +1,16 @@
-### Hi there 👋
+## Vineet Mahajan
 
-<!--
-**aka-vm/aka-vm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Engineer at [Aftershoot](https://aftershoot.com), working on the
+infrastructure side of machine learning.
 
-Here are some ideas to get you started:
+Previously built and shipped CV models end-to-end — image tagging,
+segmentation, photo retouching (age/gender, inpainting) — taking them
+from PyTorch to production via ONNX and CoreML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack**  
+Python · PyTorch · TensorFlow · ONNX · CoreML · HuggingFace · OpenCV  
+Docker · Vector Search · Databases · Cloud
+
+---
+
+In my free time I like tinkering — mostly automating things for myself.
